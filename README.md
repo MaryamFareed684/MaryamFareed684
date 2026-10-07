@@ -29,16 +29,10 @@ AI/ML and data analytics student at **UET Peshawar** (BSc Computer Systems Engin
 
 **Areas:** Machine Learning · Computer Vision · NLP · RAG · Data Analytics · Data Engineering
 
-### Featured projects
+### Education
 
-| Project | What it does | Tech used |
-|---|---|---|
-| **StudyMind AI** (team project) | Chat with your documents using a RAG chatbot, with sources, quizzes, flashcards and study roadmaps | RAG, ChromaDB, React, FastAPI |
-| **E-Commerce Medallion Pipeline** | Bronze, Silver and Gold data layers for e-commerce sales data | Microsoft Fabric, Lakehouse |
-| **Face & Vehicle Detection** | Face recognition, plus vehicle detection with speed estimation and counting | Python, OpenCV |
-| **CNN Image Classification** | Neural networks on MNIST and CIFAR-10 with augmentation and feature-map visualization | TensorFlow, Keras |
-| **Emotion & Cyber Abuse Detection** | Detects cyber abuse in Roman Urdu and classifies emotions in text | Python, NLP, Scikit-learn |
-| **AI News Summarizer & Sentiment Analyzer** | Summarizes news articles and analyzes their sentiment | Hugging Face, Transformers |
+**BSc Computer Systems Engineering**, University of Engineering and Technology Peshawar (Oct 2023 to July 2027)
+
 
 ### Get in touch
 
