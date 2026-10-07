@@ -6,11 +6,11 @@ AI/ML and data analytics student at **UET Peshawar** (BSc Computer Systems Engin
 💼 **LinkedIn:** https://www.linkedin.com/in/maryam-farid-a499872a6
 ✉️ **Email:** mrymfarid684@gmail.com
 
-### What I'm working on
+### What I do
 
-- **StudyMind AI**: a personal AI learning workspace with a RAG chatbot, quizzes, flashcards and weak-topic detection
-- AI/ML Intern at **QuantumLogics**, and lecturer at **POLYCODE**
-- Data analytics work with Microsoft Fabric, Databricks and Power BI
+- Machine learning and computer vision projects with Python, TensorFlow, Keras and OpenCV
+- NLP and generative AI, including RAG chatbots that answer from documents
+- Data analytics with SQL, Microsoft Fabric, Databricks and Power BI
 
 ### Skills
 
@@ -31,13 +31,15 @@ AI/ML and data analytics student at **UET Peshawar** (BSc Computer Systems Engin
 
 ### Featured projects
 
-| Project | What it is |
-|---|---|
-| [StudyMind AI](https://github.com/MaryamFareed684/studymind-ai) | Chat with your documents using RAG, with sources, quizzes and study roadmaps |
-| [E-Commerce Medallion Pipeline](https://github.com/MaryamFareed684/ecommerce-medallion-fabric) | Bronze, Silver and Gold data layers in Microsoft Fabric |
-| [Face & Vehicle Detection](https://github.com/MaryamFareed684/face-vehicle-detection) | Face recognition and vehicle detection with speed estimation |
-| [CNN Image Classification](https://github.com/MaryamFareed684/cnn-image-classification) | MNIST and CIFAR-10 with augmentation and feature-map visualization |
+| Project | What it does | Tech used |
+|---|---|---|
+| **StudyMind AI** (team project) | Chat with your documents using a RAG chatbot, with sources, quizzes, flashcards and study roadmaps | RAG, ChromaDB, React, FastAPI |
+| **E-Commerce Medallion Pipeline** | Bronze, Silver and Gold data layers for e-commerce sales data | Microsoft Fabric, Lakehouse |
+| **Face & Vehicle Detection** | Face recognition, plus vehicle detection with speed estimation and counting | Python, OpenCV |
+| **CNN Image Classification** | Neural networks on MNIST and CIFAR-10 with augmentation and feature-map visualization | TensorFlow, Keras |
+| **Emotion & Cyber Abuse Detection** | Detects cyber abuse in Roman Urdu and classifies emotions in text | Python, NLP, Scikit-learn |
+| **AI News Summarizer & Sentiment Analyzer** | Summarizes news articles and analyzes their sentiment | Hugging Face, Transformers |
 
 ### Get in touch
 
-I'm open to internships and entry-level roles in AI, ML and data analytics. The easiest way to reach me is by email or LinkedIn.
+I am open to new opportunities in AI, ML and data analytics. The easiest way to reach me is by email or LinkedIn.
