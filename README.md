@@ -1,6 +1,6 @@
 ### Hi, I'm Maryam 👋
 
-AI/ML and data analytics student at **UET Peshawar** (BSc Computer Systems Engineering, CGPA 3.91). I build AI systems that read, see and explain, and the data pipelines underneath them.
+BSc Computer Systems Engineering student at **UET Peshawar**. interested in Artificial Intelligence, Machine learning and data science.  I build AI systems that read, see and explain, and the data pipelines underneath them.
 
 🌐 **Portfolio:** https://MaryamFareed684.github.io/portfolio/
 💼 **LinkedIn:** https://www.linkedin.com/in/maryam-farid-a499872a6
